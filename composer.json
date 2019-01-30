@@ -1,12 +1,12 @@
 {
-  "name": "firegento/rabbitmq",
+  "name": "ambimax/magento-module-firegento-rabbitmq",
   "license": ["GPL-3.0"],
   "type": "magento-module",
   "description": "RabbitMQ implementation for Magento 1 with producer and consumer",
   "homepage": "https://github.com/firegento/firegento-rabbitmq",
   "require": {
     "magento-hackathon/magento-composer-installer": "*",
-    "php-amqplib/php-amqplib": "~2.6.0"
+    "php-amqplib/php-amqplib": "^2.8.0"
   },
   "repositories": [
     {
